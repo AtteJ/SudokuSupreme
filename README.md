@@ -9,4 +9,4 @@ We may also be using Google Admobs to view ads. Admobs may be placing and readin
 How Google uses your data: http://www.google.com/policies/privacy/partners/
 To turn off ad personalisation visit https://adssettings.google.com/
 
-To remove data Google has collected see https://support.google.com/accounts/answer/7660719?hl=en
+To remove data that Google has collected see https://support.google.com/accounts/answer/7660719?hl=en
